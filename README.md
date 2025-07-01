@@ -44,13 +44,21 @@ Early detection of Chronic Kidney Disease (CKD) can significantly improve patien
 ### 5. Feature Engineering 
 - Perform standardization on the dataset
 
-## 🛠️ Tools and Libraries
-- Python 3.7+
-- pandas, numpy
-- scikit-learn
-- matplotlib, seaborn
-- xgboost
-- imbalanced-learn (for SMOTE)
+### ⚡ **Project Structure**
+
+```
+Heart_Disease_EDA/
+│
+├── data/                  # Dataset files
+├── notebooks/             # Jupyter notebooks with EDA and modelling
+├── visualizations/        # Generated plots and charts
+├── README.md              # Project overview and documentation
+└── requirements.txt       # Dependencies
+
+### 🛠️ **Tools & Libraries**
+
+* **Languages:** Python
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, xgboost
 
 ## 📊 Results
 - Best model: **Random Forest Classifier** after tuning
