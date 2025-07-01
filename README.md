@@ -19,10 +19,8 @@ Early detection of Chronic Kidney Disease (CKD) can significantly improve patien
 - Plotted correlation heatmaps and boxplots
 
 ### 2. Data Preprocessing
-- Handled missing values using imputation (mean for numerical, mode for categorical)
-- Encoded categorical variables using `LabelEncoder`
 - Scaled numerical features using `StandardScaler`
-- Addressed class imbalance using `SMOTE`
+
 
 ### 3. Model Building
 - **Train-Test Split**: 80-20 split with stratified sampling
