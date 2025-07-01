@@ -45,7 +45,6 @@ Early detection of Chronic Kidney Disease (CKD) can significantly improve patien
 - Perform standardization on the dataset
 
 ### ⚡ **Project Structure**
-
 ```
 Heart_Disease_EDA/
 │
@@ -54,6 +53,7 @@ Heart_Disease_EDA/
 ├── visualizations/        # Generated plots and charts
 ├── README.md              # Project overview and documentation
 └── requirements.txt       # Dependencies
+```
 
 ### 🛠️ **Tools & Libraries**
 
